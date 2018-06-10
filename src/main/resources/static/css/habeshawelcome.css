@@ -1,0 +1,143 @@
+body{
+
+
+    background-color: gainsboro;
+    margin-bottom: 0px;
+
+}
+.headnavcontainer{
+    background-color: silver;
+}
+
+#habesha1{
+    width:200px;
+    height:80px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top:20px;
+	background-color:pink;
+    transform:rotate(20deg);
+
+}
+#ulist1{
+    width:700px;
+    margin: auto;
+}
+#ulist1 li{
+    display: inline;
+
+
+
+    background-color: #8d9475;
+    width: 250px;
+    border: 1px solid black;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+#loginli{
+    margin-left: 90px;
+    border: none;
+}
+#facebook{
+    margin-left: 60px;
+}
+.common{
+    float: left;
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+
+}
+.Outercontainer{
+    width: 1000px;
+    margin: auto;
+}
+.image1{
+    width:300px;
+
+}
+.image2{
+    width:300px;
+
+}
+.image3{
+    width:300px;
+
+}
+.clearfix::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.margincontrol{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+#fedbackp{
+    margin-left: 150px;
+
+}
+#fedbackpspan{
+    font-family: cursive sans-serif;
+    font-style: italic;
+    font-size: large;
+}
+
+#fot{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    background-color: dimgray;
+    border: 3px solid lightgreen;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Helvetica;
+
+}
+#map{
+    position: absolute;
+    bottom: 10%;
+    right:0;
+    width:200px;
+    height: 200px;
+    border: 2px solid lightpink;
+}
+.foot{
+    float: left;
+    padding: 20px;
+}
+.left{
+    width:30%;
+    color: white;
+}
+.right{
+    width:30%;
+
+}
+.farright{
+    width:30%;
+    color: white;
+}
+.clearfoot::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+#facebookcolor{
+    color:#4267b2;
+    font-weight: bold;
+    font-size: large;
+}
+#twitcolor{
+    color:#1da1f2;
+    font-weight: bold;
+    font-size: large;
+}
